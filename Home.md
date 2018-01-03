@@ -2,6 +2,8 @@
 ## How are 
 ### you doing?
 
+[Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
